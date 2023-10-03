@@ -28,16 +28,16 @@ input {
 
 input:focus {
   outline: none;
-  border-color: #ff0062;
+  border-color: #ff009d;
 }
 
 button {
   font: inherit;
-  border: 1px solid #ff0062;
+  border: 1px solid #ff00a6;
   color: white;
   padding: 1rem 2rem;
-  border-radius: 5px;
-  background: #ff0062;
+  border-radius: 8px;
+  background: #ff00aa;
   cursor: pointer;
 }
 
@@ -53,7 +53,7 @@ button:active {
 
 .card {
   padding: 1rem;
-  border-radius: 10px;
+  border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
 }
 
@@ -85,7 +85,7 @@ button:active {
 
 #movie-list li {
   margin: 1rem;
-  color: #ff0062;
+  color: #ff00c3;
   font-weight: bold;
   font-size: 1.5rem;
 }
