@@ -8,12 +8,14 @@ html {
 
 body {
   margin: 0;
+  background-color: rgb(246, 218, 245);
 }
 
 label {
   font-weight: bold;
   display: block;
   color: #494949;
+  background: rgb(238, 141, 251);
 }
 
 input {
