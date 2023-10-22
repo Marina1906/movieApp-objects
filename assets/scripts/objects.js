@@ -31,7 +31,7 @@ const movies = [];
 const renderMovies = (filter = '') => {
   const movieList = document.getElementById('movie-list');
 
-  if (movies.lenght === 0) {
+  if (movies.length === 0) {
     movieList.classList.remove('visible');
     return;
   } else {
